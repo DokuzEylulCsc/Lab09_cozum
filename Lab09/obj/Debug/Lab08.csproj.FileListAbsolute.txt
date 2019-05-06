@@ -1,0 +1,6 @@
+C:\Users\Baris\source\repos\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\Baris\source\repos\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab08.pdb
